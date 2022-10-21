@@ -1,9 +1,10 @@
 import Login from './components/Login';
+import Player from './components/Player/Player';
 
 function App() {
   return (
     <div>
-      <Login />
+      <Player />
     </div>
   );
 }
